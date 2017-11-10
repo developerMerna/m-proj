@@ -21,4 +21,4 @@ trait CreatesApplication
     }
 }
 
-// Hello world
+
